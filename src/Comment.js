@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+/*import React, { Component } from 'react'
 
 
 export default class Comment extends Component {
@@ -10,3 +10,4 @@ export default class Comment extends Component {
     )
   }
 }
+*/
